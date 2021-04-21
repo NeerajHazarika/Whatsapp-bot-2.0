@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/NeerajHazarika/Whatsapp-bot-2.0/blob/master/lib/slave%20profile.jpeg" alt="Botto-re" width="500" />
+<img src="https://github.com/NeerajHazarika/Whatsapp-bot-2.0/blob/master/lib/slave%20profile.jpeg" alt="Botto-re" width="450" height="450"/>
 
 # Whatsapp-Botto-Re
 
